@@ -1,0 +1,10 @@
+.menu {
+  display: none;
+  background-color: lightgray;
+  width: 50%;
+  padding: 10px;
+  }
+
+.menu.show {
+  display: block;
+}
